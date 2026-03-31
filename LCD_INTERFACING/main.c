@@ -110,10 +110,10 @@ int main(void) {
     lcd_init();
 
     lcd_set_cursor(0,0);
-    lcd_print("ASWIN KUMAR A");
+    lcd_print("ASWIN KUMAR A");// change your name 
 
     lcd_set_cursor(1,0);
-    lcd_print("SSN COLLEGE");
+    lcd_print("SSN COLLEGE"); // change your college name 
 
     while(1);
 }
